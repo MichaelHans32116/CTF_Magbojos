@@ -1,0 +1,9 @@
+Disallow: /admin-flag-sector/
+# ==============================================================
+# SECURE DIRECTIVE // INFASEC CLASSIFIED MEMORANDUM
+# ==============================================================
+# Target: Subject Cousintido (Case File: 2026-INFASEC-04A)
+# Susi : teddybearnikeana
+# ==============================================================
+# INSTRUCTION FOR INVESTIGATOR:
+# 1. Open the suspect's Curriculum Vitae / Evidence Dossier.
